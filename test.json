@@ -1,0 +1,1149 @@
+[
+  {
+    "id": 1,
+    "value": "Autonomous connected vehicles face 300,000 attacks a month",
+    "description": "\u003Cp\u003EAn experiment carried out by a security solutions company, Karamba Security, has been attracting Internet attacks on automotive electronic control units (ECUs). It found out that each of the ECUs that was exposed to Internet connectivity was subjected to as many as 300,000 attacks per month.\u003Cbr /\u003E\n&nbsp;\u003C/p\u003E\n",
+    "report": [
+      {
+        "id": 284,
+        "value": "Autonomous connected vehicles face 300,000 attacks a month",
+        "name": "Autonomous connected vehicles face 300,000 attacks a month",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 285,
+        "value": "Karamba Security: Vehicles face 300,000 attacks per month",
+        "name": "Karamba Security: Vehicles face 300,000 attacks per month",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 286,
+        "value": "Autonomous and Connected Vehicles Face 300,000 Attacks Per Month, According to Karamba Security",
+        "name": "Autonomous and Connected Vehicles Face 300,000 Attacks Per Month, According to Karamba Security",
+        "type": null,
+        "status": null
+      }
+    ],
+    "indicators": [],
+    "adversaries": [],
+    "asset": [],
+    "campaign": [],
+    "incident": [],
+    "identity": [],
+    "malware": [],
+    "tool": [],
+    "vulnerability": [],
+    "sources": [
+      {
+        "name": "Remote ThreatQ Events",
+        "value": "Remote ThreatQ Events"
+      },
+      {
+        "name": "Rina Espiritu",
+        "value": "Rina Espiritu"
+      },
+      {
+        "name": "Upstream_CSV",
+        "value": "Upstream_CSV"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "ASIP",
+        "value": "verified"
+      },
+      {
+        "name": "ASRG",
+        "value": "checked"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Autonomous"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Yes"
+      },
+      {
+        "name": "AutoSec Relevant",
+        "value": "Yes"
+      },
+      {
+        "name": "Country",
+        "value": "Unspecified"
+      },
+      {
+        "name": "Impacted Company Type",
+        "value": "Tier 1"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Unspecified"
+      },
+      {
+        "name": "Long or Short Range",
+        "value": "Long-Range"
+      },
+      {
+        "name": "Physical or Remote Access",
+        "value": "Remote access"
+      },
+      {
+        "name": "White or Black Hat",
+        "value": "White hat"
+      },
+      {
+        "name": "Year",
+        "value": "2019"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "value": "Irish tram operator website hacked for bitcoin ransom",
+    "description": "Irish tram operator Luas’ website is down after it was targeted by hackers demanding bitcoin.",
+    "report": [
+      {
+        "id": 287,
+        "value": "Irish Tram Operator Website Hacked For Bitcoin Ransom",
+        "name": "Irish Tram Operator Website Hacked For Bitcoin Ransom",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 288,
+        "value": "Hackers demand ransom from Dublin’s tram system, after Luas website defaced",
+        "name": "Hackers demand ransom from Dublin’s tram system, after Luas website defaced",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 289,
+        "value": "Irish tram system website hacked; held for 1 BTC ransom",
+        "name": "Irish tram system website hacked; held for 1 BTC ransom",
+        "type": null,
+        "status": null
+      }
+    ],
+    "indicators": [],
+    "adversaries": [],
+    "asset": [],
+    "campaign": [],
+    "incident": [],
+    "identity": [],
+    "malware": [],
+    "tool": [],
+    "vulnerability": [],
+    "sources": [
+      {
+        "name": "Remote ThreatQ Events",
+        "value": "Remote ThreatQ Events"
+      },
+      {
+        "name": "Rina Espiritu",
+        "value": "Rina Espiritu"
+      },
+      {
+        "name": "Upstream_CSV",
+        "value": "Upstream_CSV"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "ASIP",
+        "value": "verified"
+      },
+      {
+        "name": "ASRG",
+        "value": "checked"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Autonomous"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Yes"
+      },
+      {
+        "name": "AutoSec Relevant",
+        "value": "Yes"
+      },
+      {
+        "name": "Country",
+        "value": "Ireland"
+      },
+      {
+        "name": "Impacted Company Type",
+        "value": "Train"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Luas"
+      },
+      {
+        "name": "Long or Short Range",
+        "value": "Long-Range"
+      },
+      {
+        "name": "Physical or Remote Access",
+        "value": "Remote access"
+      },
+      {
+        "name": "White or Black Hat",
+        "value": "Black hat"
+      },
+      {
+        "name": "Year",
+        "value": "2019"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "value": "Gang hacks key fob and steals car in 30 seconds",
+    "description": "A couple’s keyless car was stolen from their driveway in just 30 seconds by thieves who hacked into its key fob signal from 25 feet away.",
+    "report": [
+      {
+        "id": 290,
+        "value": "Gang hacks key fob and steals car in 30 seconds",
+        "name": "Gang hacks key fob and steals car in 30 seconds",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 291,
+        "value": "Evening Standard - Gang hacks key fob with aerial and steals car in 30 seconds",
+        "name": "Evening Standard - Gang hacks key fob with aerial and steals car in 30 seconds",
+        "type": null,
+        "status": null
+      }
+    ],
+    "indicators": [],
+    "adversaries": [],
+    "asset": [],
+    "campaign": [],
+    "incident": [],
+    "identity": [],
+    "malware": [],
+    "tool": [],
+    "vulnerability": [],
+    "sources": [
+      {
+        "name": "Remote ThreatQ Events",
+        "value": "Remote ThreatQ Events"
+      },
+      {
+        "name": "Rina Espiritu",
+        "value": "Rina Espiritu"
+      },
+      {
+        "name": "Upstream_CSV",
+        "value": "Upstream_CSV"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "ASIP",
+        "value": "verified"
+      },
+      {
+        "name": "ASRG",
+        "value": "checked"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Autonomous"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Yes"
+      },
+      {
+        "name": "AutoSec Relevant",
+        "value": "Yes"
+      },
+      {
+        "name": "Car Model",
+        "value": "Ford Focus RS"
+      },
+      {
+        "name": "Country",
+        "value": "UK"
+      },
+      {
+        "name": "Impacted Company Type",
+        "value": "OEM"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Ford"
+      },
+      {
+        "name": "Long or Short Range",
+        "value": "Short-Range"
+      },
+      {
+        "name": "Physical or Remote Access",
+        "value": "Remote access"
+      },
+      {
+        "name": "White or Black Hat",
+        "value": "Black hat"
+      },
+      {
+        "name": "Year",
+        "value": "2019"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "value": "£30,000 Range Rover stolen by a keyless entry hack",
+    "description": "A woman’s £30,000 Range Rover was stolen from her Sutton in a suspected keyless entry theft.",
+    "report": [
+      {
+        "id": 292,
+        "value": "Sutton woman’s white £30k Range Rover Evoque that was stolen from her home ‘found safe and undamaged’",
+        "name": "Sutton woman’s white £30k Range Rover Evoque that was stolen from her home ‘found safe and undamaged’",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 293,
+        "value": "£30,000 Range Rover stolen by a keyless entry hack",
+        "name": "£30,000 Range Rover stolen by a keyless entry hack",
+        "type": null,
+        "status": null
+      }
+    ],
+    "indicators": [],
+    "adversaries": [],
+    "asset": [],
+    "campaign": [],
+    "incident": [],
+    "identity": [],
+    "malware": [],
+    "tool": [],
+    "vulnerability": [],
+    "sources": [
+      {
+        "name": "Remote ThreatQ Events",
+        "value": "Remote ThreatQ Events"
+      },
+      {
+        "name": "Rina Espiritu",
+        "value": "Rina Espiritu"
+      },
+      {
+        "name": "Upstream_CSV",
+        "value": "Upstream_CSV"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "ASIP",
+        "value": "verified"
+      },
+      {
+        "name": "ASRG",
+        "value": "checked"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Autonomous"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Yes"
+      },
+      {
+        "name": "AutoSec Relevant",
+        "value": "Yes"
+      },
+      {
+        "name": "Car Model",
+        "value": "Range Rover Evoque"
+      },
+      {
+        "name": "Country",
+        "value": "UK"
+      },
+      {
+        "name": "Impacted Company Type",
+        "value": "OEM"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Land Rover"
+      },
+      {
+        "name": "Long or Short Range",
+        "value": "Short-Range"
+      },
+      {
+        "name": "Physical or Remote Access",
+        "value": "Remote access"
+      },
+      {
+        "name": "White or Black Hat",
+        "value": "Black hat"
+      },
+      {
+        "name": "Year",
+        "value": "2019"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "value": "CCTV captures keyless theft",
+    "description": "A woman from Berkshire has joined a growing number of people falling victim to keyless car theft - where criminals use electronic devices to steal certain cars without needing the key.",
+    "report": [
+      {
+        "id": 294,
+        "value": "CCTV captures latest keyless theft in car crime 'epidemic'",
+        "name": "CCTV captures latest keyless theft in car crime 'epidemic'",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 295,
+        "value": "CCTV captures keyless theft",
+        "name": "CCTV captures keyless theft",
+        "type": null,
+        "status": null
+      }
+    ],
+    "indicators": [],
+    "adversaries": [],
+    "asset": [],
+    "campaign": [],
+    "incident": [],
+    "identity": [],
+    "malware": [],
+    "tool": [],
+    "vulnerability": [],
+    "sources": [
+      {
+        "name": "Remote ThreatQ Events",
+        "value": "Remote ThreatQ Events"
+      },
+      {
+        "name": "Rina Espiritu",
+        "value": "Rina Espiritu"
+      },
+      {
+        "name": "Upstream_CSV",
+        "value": "Upstream_CSV"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "ASIP",
+        "value": "verified"
+      },
+      {
+        "name": "ASRG",
+        "value": "checked"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Autonomous"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Yes"
+      },
+      {
+        "name": "AutoSec Relevant",
+        "value": "Yes"
+      },
+      {
+        "name": "Country",
+        "value": "UK"
+      },
+      {
+        "name": "Impacted Company Type",
+        "value": "OEM"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "BMW"
+      },
+      {
+        "name": "Long or Short Range",
+        "value": "Short-Range"
+      },
+      {
+        "name": "Physical or Remote Access",
+        "value": "Remote access"
+      },
+      {
+        "name": "White or Black Hat",
+        "value": "Black hat"
+      },
+      {
+        "name": "Year",
+        "value": "2019"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "value": "Thousands of cars are left vulnerable to hacking by thieves using wireless transmitters",
+    "description": "99% of cars tested by the German General Automobile Club (ADAC) were found to be vulnerable to the wireless keys flaw, enabling criminals to unlock the cars and drive them away. It tested 237 key-less entry models, finding that 230 of them could be easily hacked within a few minutes.",
+    "asset": [
+      {
+        "id": 1,
+        "value": "BLE",
+        "name": "BLE",
+        "type": null,
+        "status": null
+      }
+    ],
+    "report": [
+      {
+        "id": 296,
+        "value": "Thousands of cars are left vulnerable to hacking by thieves using wireless transmitters",
+        "name": "Thousands of cars are left vulnerable to hacking by thieves using wireless transmitters",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 297,
+        "value": "ITV - Thousands of cars left vulnerable to hacking by thieves using wireless transmitters",
+        "name": "ITV - Thousands of cars left vulnerable to hacking by thieves using wireless transmitters",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 298,
+        "value": "How easy is it to steal your car?",
+        "name": "How easy is it to steal your car?",
+        "type": null,
+        "status": null
+      }
+    ],
+    "indicators": [],
+    "adversaries": [],
+    "campaign": [],
+    "incident": [],
+    "identity": [],
+    "malware": [],
+    "tool": [],
+    "vulnerability": [],
+    "sources": [
+      {
+        "name": "Remote ThreatQ Events",
+        "value": "Remote ThreatQ Events"
+      },
+      {
+        "name": "Rina Espiritu",
+        "value": "Rina Espiritu"
+      },
+      {
+        "name": "Upstream_CSV",
+        "value": "Upstream_CSV"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "ASIP",
+        "value": "verified"
+      },
+      {
+        "name": "ASRG",
+        "value": "checked"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Autonomous"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Yes"
+      },
+      {
+        "name": "AutoSec Relevant",
+        "value": "Yes"
+      },
+      {
+        "name": "Country",
+        "value": "Germany"
+      },
+      {
+        "name": "Impacted Company Type",
+        "value": "OEM"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Alfa Romeo"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Audi"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "BMW"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Chevrolet"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Citroen"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "DS Automobiles"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Fiat Chrysler Automobiles"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Ford"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Honda"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Hyundai"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Infiniti"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Jaguar"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Jeep"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "KIA"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Land Rover"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Lexus"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Mazda"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Mercedes-Benz"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "MINI"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Mitsubishi"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Nissan"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Opel"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Peugeot"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Renault"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Seat"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Skoda"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "SsangYong"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Subaru"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Suzuki"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Tesla"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Toyota"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Volkswagen"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Volvo"
+      },
+      {
+        "name": "Long or Short Range",
+        "value": "Short-Range"
+      },
+      {
+        "name": "Physical or Remote Access",
+        "value": "Remote access"
+      },
+      {
+        "name": "Year",
+        "value": "2019"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "value": "Residents told to keep car keys in microwave after break-ins of cars",
+    "description": "Dozens of break-ins in Snodland, UK. Residents believe the suspect is using a hacking device to access cars which allows them to just turn up and open the door.",
+    "asset": [
+      {
+        "id": 24,
+        "value": "WAVE",
+        "name": "WAVE",
+        "type": null,
+        "status": null
+      }
+    ],
+    "report": [
+      {
+        "id": 299,
+        "value": "Residents told to keep car keys in microwave after break-ins of cars - KentOnline",
+        "name": "Residents told to keep car keys in microwave after break-ins of cars - KentOnline",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 300,
+        "value": "Residents told to keep car keys in microwave after break-ins of cars",
+        "name": "Residents told to keep car keys in microwave after break-ins of cars",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 301,
+        "value": "Kent Online - Residents told to keep car keys in microwave after break-ins of cars",
+        "name": "Kent Online - Residents told to keep car keys in microwave after break-ins of cars",
+        "type": null,
+        "status": null
+      }
+    ],
+    "indicators": [],
+    "adversaries": [],
+    "campaign": [],
+    "incident": [],
+    "identity": [],
+    "malware": [],
+    "tool": [],
+    "vulnerability": [],
+    "sources": [
+      {
+        "name": "Remote ThreatQ Events",
+        "value": "Remote ThreatQ Events"
+      },
+      {
+        "name": "Rina Espiritu",
+        "value": "Rina Espiritu"
+      },
+      {
+        "name": "Upstream_CSV",
+        "value": "Upstream_CSV"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "ASIP",
+        "value": "verified"
+      },
+      {
+        "name": "ASRG",
+        "value": "checked"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Autonomous"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Yes"
+      },
+      {
+        "name": "AutoSec Relevant",
+        "value": "Yes"
+      },
+      {
+        "name": "Country",
+        "value": "UK"
+      },
+      {
+        "name": "Impacted Company Type",
+        "value": "OEM"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Nissan"
+      },
+      {
+        "name": "Long or Short Range",
+        "value": "Short-Range"
+      },
+      {
+        "name": "Physical or Remote Access",
+        "value": "Remote access"
+      },
+      {
+        "name": "White or Black Hat",
+        "value": "Black hat"
+      },
+      {
+        "name": "Year",
+        "value": "2019"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "value": "Keyless car thieves steal £60,000 Land Rover",
+    "description": "Gone in 40 seconds! Moment keyless car thieves steal £60,000 Land Rover from owner's drive using '£80' relay device - despite keys being in signal-blocking pouch",
+    "report": [
+      {
+        "id": 302,
+        "value": "Keyless car thieves steal £60,000 Land Rover",
+        "name": "Keyless car thieves steal £60,000 Land Rover",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 303,
+        "value": "Keyless car thieves steal Range Rover Sport worth £60,000 in Harborne Birmingham",
+        "name": "Keyless car thieves steal Range Rover Sport worth £60,000 in Harborne Birmingham",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 304,
+        "value": "Shocking moment thieves stole £60,000 keyless car from driveway – in just 40 seconds",
+        "name": "Shocking moment thieves stole £60,000 keyless car from driveway – in just 40 seconds",
+        "type": null,
+        "status": null
+      }
+    ],
+    "indicators": [],
+    "adversaries": [],
+    "asset": [],
+    "campaign": [],
+    "incident": [],
+    "identity": [],
+    "malware": [],
+    "tool": [],
+    "vulnerability": [],
+    "sources": [
+      {
+        "name": "Remote ThreatQ Events",
+        "value": "Remote ThreatQ Events"
+      },
+      {
+        "name": "Rina Espiritu",
+        "value": "Rina Espiritu"
+      },
+      {
+        "name": "Upstream_CSV",
+        "value": "Upstream_CSV"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "ASIP",
+        "value": "verified"
+      },
+      {
+        "name": "ASRG",
+        "value": "checked"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Autonomous"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Yes"
+      },
+      {
+        "name": "AutoSec Relevant",
+        "value": "Yes"
+      },
+      {
+        "name": "Car Model",
+        "value": "Range Rover Sport"
+      },
+      {
+        "name": "Country",
+        "value": "UK"
+      },
+      {
+        "name": "Impacted Company Type",
+        "value": "OEM"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Land Rover"
+      },
+      {
+        "name": "Long or Short Range",
+        "value": "Short-Range"
+      },
+      {
+        "name": "Physical or Remote Access",
+        "value": "Remote access"
+      },
+      {
+        "name": "White or Black Hat",
+        "value": "Black hat"
+      },
+      {
+        "name": "Year",
+        "value": "2019"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "value": "Keyless car theft in Middlesbrough, UK",
+    "description": "Police issue warning after keyless car theft in Middlesbrough, UK. The theft happened on Saxonfield, Colby Newham, Middlesbrough, between 9pm on Tuesday, February 5 and 1am the following morning when a Ford Fiesta ST-2 Turbo was stolen.",
+    "report": [
+      {
+        "id": 305,
+        "value": "Keyless car theft in Middlesbrough, UK",
+        "name": "Keyless car theft in Middlesbrough, UK",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 306,
+        "value": "Police issue warning after keyless car theft in Middlesbrough",
+        "name": "Police issue warning after keyless car theft in Middlesbrough",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 307,
+        "value": "Police issue warning after keyless car theft in Middlesbrough - Darlington and Stockton Times",
+        "name": "Police issue warning after keyless car theft in Middlesbrough - Darlington and Stockton Times",
+        "type": null,
+        "status": null
+      }
+    ],
+    "indicators": [],
+    "adversaries": [],
+    "asset": [],
+    "campaign": [],
+    "incident": [],
+    "identity": [],
+    "malware": [],
+    "tool": [],
+    "vulnerability": [],
+    "sources": [
+      {
+        "name": "Remote ThreatQ Events",
+        "value": "Remote ThreatQ Events"
+      },
+      {
+        "name": "Rina Espiritu",
+        "value": "Rina Espiritu"
+      },
+      {
+        "name": "Upstream_CSV",
+        "value": "Upstream_CSV"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "ASIP",
+        "value": "verified"
+      },
+      {
+        "name": "ASRG",
+        "value": "checked"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Autonomous"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Yes"
+      },
+      {
+        "name": "AutoSec Relevant",
+        "value": "Yes"
+      },
+      {
+        "name": "Car Model",
+        "value": "Ford Fiesta ST-2 Turbo"
+      },
+      {
+        "name": "Country",
+        "value": "UK"
+      },
+      {
+        "name": "Impacted Company Type",
+        "value": "OEM"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Ford"
+      },
+      {
+        "name": "Long or Short Range",
+        "value": "Short-Range"
+      },
+      {
+        "name": "Physical or Remote Access",
+        "value": "Remote access"
+      },
+      {
+        "name": "White or Black Hat",
+        "value": "Black hat"
+      },
+      {
+        "name": "Year",
+        "value": "2019"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "value": "Odometer fraud on the rise in Austin, USA",
+    "description": "Hackers are hacking the car's computer and rolling back the mileage on odometers to make the vehicles seem more valuable. The fraud is costing victims an average of $4,000 each.",
+    "last": true,
+    "asset": [
+      {
+        "id": 1,
+        "value": "BLE",
+        "name": "BLE",
+        "type": null,
+        "status": null
+      }
+    ],
+    "report": [
+      {
+        "id": 308,
+        "value": "Odometer fraud on the rise in Austin, USA",
+        "name": "Odometer fraud on the rise in Austin, USA",
+        "type": null,
+        "status": null
+      },
+      {
+        "id": 309,
+        "value": "Odometer fraud on the rise in Austin and costing car buyers thousands of dollars",
+        "name": "Odometer fraud on the rise in Austin and costing car buyers thousands of dollars",
+        "type": null,
+        "status": null
+      }
+    ],
+    "indicators": [],
+    "adversaries": [],
+    "campaign": [],
+    "incident": [],
+    "identity": [],
+    "malware": [],
+    "tool": [],
+    "vulnerability": [],
+    "sources": [
+      {
+        "name": "Remote ThreatQ Events",
+        "value": "Remote ThreatQ Events"
+      },
+      {
+        "name": "Rina Espiritu",
+        "value": "Rina Espiritu"
+      },
+      {
+        "name": "Upstream_CSV",
+        "value": "Upstream_CSV"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "ASIP",
+        "value": "verified"
+      },
+      {
+        "name": "ASRG",
+        "value": "checked"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Autonomous"
+      },
+      {
+        "name": "Autonomous",
+        "value": "Yes"
+      },
+      {
+        "name": "AutoSec Relevant",
+        "value": "Yes"
+      },
+      {
+        "name": "Country",
+        "value": "USA"
+      },
+      {
+        "name": "Impacted Company Type",
+        "value": "OEM"
+      },
+      {
+        "name": "Impacted Company",
+        "value": "Unspecified"
+      },
+      {
+        "name": "Long or Short Range",
+        "value": "Short-Range"
+      },
+      {
+        "name": "Physical or Remote Access",
+        "value": "Physical access"
+      },
+      {
+        "name": "White or Black Hat",
+        "value": "Black hat"
+      },
+      {
+        "name": "Year",
+        "value": "2019"
+      }
+    ]
+  }
+]
